@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586976739 source:c:\users\user\desktop\c++\kalkulator podsieci\main.cpp
+	<iostream>
+	<bitset>
+	<stdint.h>
+	<cstdlib>
+	<math.h>
+	<fstream>
+
